@@ -46,8 +46,8 @@ about:
     icon: "icon-smile-fill"
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/mahshidarastonejad/"
-  #image:
-   # x: "img/who-am-i/Mahshid.jpg"
+  image:
+    x: "img/who-am-i/Mahshid.jpg"
    # _2x: "img/who-am-i/Mahshidjpg"
 
 # experience
@@ -134,9 +134,9 @@ client_and_work:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
         URL: "https://rpubs.com/MahshidArastonejad/1016760"
-      image:
-        x: "img/works/Project1.jpg"
-        _2x: "img/works/Project1.jpg"
+     # image:
+        #x: "img/works/Project1.jpg"
+        #_2x: "img/works/Project1.jpg"
       is_even: true
 
     #- title: "Product Price Recommendation"
@@ -186,8 +186,8 @@ contact:
   enable: true
   title: "Mahshid Arastonejad"
     
-  image:
-    x: "img/who-am-i/Mahshid.jpg"
+  #image:
+   # x: "img/who-am-i/Mahshid.jpg"
     #_2x: "img/who-am-i/Mahshid.jpg"
     
   button:
