@@ -46,8 +46,8 @@ about:
     icon: "icon-smile-fill"
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/mahshidarastonejad/"
-  image:
-    x: "img/who-am-i/Mahshid.jpg"
+  #image:
+   # x: "img/who-am-i/Mahshid.jpg"
    # _2x: "img/who-am-i/Mahshidjpg"
 
 # experience
