@@ -90,11 +90,7 @@ education:
       year: "2005-2010"
       degree: "Master of Engineering in Electronic and Communication"
       
-
-
-
-
- Client & Work
+ #Client & Work
 client_and_work:
   title: "Portfolio"
   enable: true
