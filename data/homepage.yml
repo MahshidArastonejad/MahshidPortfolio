@@ -95,9 +95,9 @@ education:
 
 
  Client & Work
-#client_and_work:
- # title: "Portfolio"
-  #enable: true
+client_and_work:
+  title: "Portfolio"
+  enable: true
   
  # enable_clients: false
   #clients:
