@@ -188,7 +188,7 @@ contact:
     
   image:
     x: "img/who-am-i/Mahshid.jpg"
-    _2x: "img/who-am-i/Mahshid.jpg"
+    #_2x: "img/who-am-i/Mahshid.jpg"
     
   button:
     icon: "icon-mail-fill"
