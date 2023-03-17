@@ -8,11 +8,11 @@ showcase:
   subtitle: "MSc Student"
   description: "Mahshid is a Master of Science student in the Human Genetics at Virginia Commonwealth university."
   image:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/giphy.gif"
+    _2x: "img/showcase/giphy.gif"
   imageMobile:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/giphy.gif"
+    _2x: "img/showcase/giphy.gif"
 
   button:
     icon: "icon-mail-fill"
