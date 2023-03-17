@@ -48,7 +48,7 @@ about:
     URL: "https://www.linkedin.com/in/mahshidarastonejad/"
   image:
     x: "img/who-am-i/Mahshid.jpg"
-   # _2x: "img/who-am-i/Mahshidjpg"
+    2x: "img/who-am-i/Mahshidjpg"
 
 # experience
 #experience:
