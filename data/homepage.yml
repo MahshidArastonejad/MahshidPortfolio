@@ -135,8 +135,8 @@ client_and_work:
         btnText: "Launch Application"
         URL: "https://rpubs.com/MahshidArastonejad/1016760"
      image:
-        x: "img/works/Portfolio.jpg"
-        _2x: "img/works/Portfolio.jpg"
+        #x: "img/works/Project1.jpg"
+        #_2x: "img/works/Project1.jpg"
       is_even: true
 
     #- title: "Product Price Recommendation"
